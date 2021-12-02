@@ -7,7 +7,8 @@ To write a python program to find the distance two 2 points
 Get the coordinates from the user.
 
 ### Step 2: 
-Substitute the values in the distance formula  ![github logo](formula.JPG)
+Substitute the values in the distance formula  
+![github logo](formula.JPG)
 
 ### Step 3: 
 Print the result(Distance between the points).
